@@ -14,22 +14,21 @@ This tutorial outlines the process of setting up a ticketing system and managing
 - Windows 11
 
 
-<h2>Users Created</h2>
+<h2>Created Tickets in SpiceWorks - Worked - Closed</h2>
 
 <p>
-<img width="1724" height="862" alt="image" src="https://github.com/user-attachments/assets/e5f6f8d6-6980-4159-8399-5e6db404a780" />
-
-</p>
-<p>
-Created a new user named Chris Walker.
-</p>
-<br />
-
-<p>
-<img width="1718" height="847" alt="image" src="https://github.com/user-attachments/assets/52c6eb54-5718-4855-ae1b-6eda7e2581f3" />
+<img width="1202" height="516" alt="image" src="https://github.com/user-attachments/assets/879b705e-75de-45ee-a60e-09995ce9f5b8" />
 
 </p>
 <p>
-Created a new user named Jordan Lee.
+Created tickets for Slow Computer, Microsoft Issue, Print Queue, Network Troubleshooting, Account Provisioning, Security Group Access.
 </p>
 <br />
+
+<p>
+<img width="1140" height="232" alt="image" src="https://github.com/user-attachments/assets/3729907f-f5d2-4ca9-ad2c-353c95beb72d" />
+
+</p>
+<p>
+Went through ticketing SLA's, updated and/or escalated each ticket, closed them out as in a IT Support/Help Desk scenario.
+</p>
